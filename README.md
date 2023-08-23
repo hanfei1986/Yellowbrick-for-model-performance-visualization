@@ -1,15 +1,16 @@
 # Yellowbrick-for-model-performance-visualization-of-classification
 Yellowbrick is an useful machine learning visualization library for visualizing model performance. This Jupyter notebook gives an example for using yellowbrick to visualize model performance of a ternary classification task.
 
-![download1](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-of-classification/assets/59255164/0029ee97-d988-417f-b17c-8baf26638a8c)
+![image](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-for-classification/assets/59255164/c96e2c67-02ec-4f1a-b90b-44bc12568bc4)
 
-![download2](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-of-classification/assets/59255164/74061b41-28b7-426c-8329-fc904ee6b499)
+![image](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-for-classification/assets/59255164/451c4b23-2aa4-4c22-9444-e330b35ebf63)
 
-![download3](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-of-classification/assets/59255164/375e0efe-33e9-4442-8a67-4fb68a083700)
+![image](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-for-classification/assets/59255164/9032bb2b-2c08-4037-a74a-1c146dd21092)
 
-![download4](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-of-classification/assets/59255164/8274e234-6cbd-4f4b-a5b0-ff245ce3715e)
+![image](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-for-classification/assets/59255164/8390796e-56e4-4d7e-934c-3210d0ad7a0a)
 
-![download5](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-of-classification/assets/59255164/60c84ae6-d47c-4777-906a-29f43a94d192)
+![image](https://github.com/hanfei1986/Yellowbrick-for-model-performance-visualization-for-classification/assets/59255164/a83eb13b-8723-462c-bcb8-80f2aee9f76e)
+
 
 
 
